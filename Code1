@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE-edge" />
+<meta 
+name="viewport"
+content="width=device-width", initial-scale="1.0" />  
+<title>Ananda V || Portfolio</title>
+<body style="background-color:lightblue;"></body>
+  </head>
+  <body>
+<div>
+  <h1>Hello Friends, Ananda, Here</h1>
+  <h3>Java Script Learner || Data Analyst || Freelancer</h3>
+  <p>My name is Ananda, started learning coding and want to become a good Programmer and front end developer.</p>
+I am currently learning Javascript.
+I would love to wriet code using CSS and html!.
+I would like to code in javascript.</p>
+<h1>Education</h1>
+<table>
+<tr>
+  <th>Degree</th>
+  <th>College</th>
+  <th>Year</th>
+</tr>  
+<tr>
+  <td>Bachelor's Degree in Arts and Studying MBA</td>
+  <td>KSOU and Annamalai University</td>
+  <td>2020-Present</td>
+</tr>
+</table> 
+<h1>My Hobby</h1>
+<ul>
+  <li>Driving</li>
+  <li>Listening Music</li>
+  <li>Cycling</li>
+</ul>
+<div class="contact">
+  <h2>Connect Me</h2>
+  <button id="fb">
+    <a href="https://www.facebook.com">Catch me on Facebook</a>
+  </button>
+  <button id="link">
+    <a href="https://www.linkedin.com">Follow me on linkedin</a>
+  </button>
+  <button id="git">
+    <a href="https://github.com">Catch me on github</a>
+  </button>
+</div>
+
+
+</div>    
+  </body>
+</html>
