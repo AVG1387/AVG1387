@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width", initial-scale=1">
+<title>Test Website</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<style>
+tr:nth-of-type(1)
+{
+    background-color: plum;
+}    
+</style>
+ 
+    </head>
+    <body>
+<h1>Hello Bengaluru!</h1>
+
+<img src="Images30/karnataka.png" border="2" style="float: right"/>
+
+<p><i><u>Bangalore is one of the fastest-growing metropolises in India</u>. Bangalore contributes 38% of India's total IT exports. <br>Its economy is primarily service oriented and industrial, dominated by information technology, telecommunication, biotechnology, and manufacturing of electronics, machinery, automobiles, food, etc.</i></p> 
+
+</p><br><em>Major industrial areas around Bangalore are Adugodi, Bidadi, Bommanahalli, Bommasandra, Domlur, Hoodi, Whitefield, Doddaballapura, Hoskote, Bashettihalli, Yelahanka, Electronic City, Peenya, Krishnarajapuram, Bellandur, Narasapura, Rajajinagar, Mahadevapura etc</em>.<br></br> It is the fifth Indian city to host maximum numbers of Fortune Companies, after Mumbai, Delhi, Kolkata and Chennai.
+
+Bangalore is known as the "Garden City of India because of its greenery, broad streets, and presence of many public parks, such as Lal Bagh and Cubbon Park. In May 2012, guidebook publisher Lonely Planet ranked Bangalore third among the world's top ten cities to visit.</p>
+
+<p>Biannual flower shows are held at the Lal Bagh Botanical Gardens during the weeks of India's Republic Day and Independence Day.
+
+Bangalore Karaga or "Karaga Shaktyotsava" is one of Bangalore's oldest festivals and is dedicated to the Hindu goddess Draupadi. It is celebrated annually by the Thigala community over a period of nine days in March or April.</p>
+
+<p>The Someshwara Car festival, held annually in April, is a procession of the idol of the Halasuru Someshwara Temple (Ulsoor) led by the Vokkaligas, a major landholding community in southern Karnataka.</p>
+
+<a href="https://binged.it/3Y3sYQQ"target=" blank">Karnataka Rajyotsava</a> is widely celebrated on 1 November and is a public holiday in the city, to mark the formation of Karnataka state on 1 November 1956.
+
+<p>Other popular festivals in Bangalore are Ugadi, Ram Navami, Eid ul-Fitr, Ganesh Chaturthi, St. Mary's feast, Dasara, Deepawali and Christmas.</p>
+
+
+
+<table border="3" cellpadding="10" cellspacing="10" bgcolor="white">
+<tr>
+    <th>Month</th>
+    <th>Rent</th>
+    <th>Ration</th>
+    <th>Electricity & WaterBill</th>
+    <th>Other Expenses</th>
+</tr>
+<tr>
+    <td>January</td>
+    <td>60000</td>
+    <td>25000</td>  
+    <td>8000</td>
+    <td>2000</td>
+   
+</tr>
+<tr>
+    <td>Feburary</td>
+    <td>60000</td>
+    <td>25000</td>  
+    <td>8000</td>
+    <td>2000</td>
+    
+</tr>
+<tr>
+    <td>March</td>
+    <td>60000</td>
+    <td>25000</td>  
+    <td>8000</td>
+    <td>2000</td>
+   
+</tr>
+
+</table>
+    </body> 
+</html>
