@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="The Modern College.css">       <!-- CSS file --> 
+    <link rel="stylesheet" href="../all.css">       <!-- Icons --> 
+    <title>The Modern College - Pune</title>
+</head>
+<body>
+    <nav class="navlist">
+        <ul>
+            <li><h4>TMC.</h4></li>
+            <li><a href="">HOME</a></li>
+            <li><a href="">ABOUT</a></li>
+            <li><a href="">COURSE</a></li>
+            <li><a href="">FACULTY</a></li>
+            
+        </ul>
+    </nav>
+    <div class="container">
+        <h1>THE MODERN COLLEGE, PUNE</h1>
+        <p>India's one of the best Engineering College</p>
+        <button><a href="">ENROLL NOW</a></button> 
+    </div>
+    <div class="content-box">
+        <h2>FACILITIES</h2>
+        <div class="row">
+            <div class="column">
+                <a href=""><img src="images/campus.jpg" alt=""></a>
+                <a href="">CAMPUS</a>
+            </div>
+            
+                <div class="column">
+                    <a href=""><img src="images/library.jpg" alt=""></a>
+                    <a href="">LIBRARY</a>
+                </div>
+                
+                    <div class="column">
+                        <a href=""><img src="images/canteen.jpg" alt=""></a>
+                        <a href="">CANTEEN</a>
+                    </div> 
+        </div>
+    </div>
+    <footer>
+        <ul>
+            <button id="fb">
+                <a href="https://www.facebook.com">Facebook</a>
+              </button>
+              <button id="link">
+                <a href="https://www.linkedin.com">Linkedin</a>
+              </button>
+              <button id="git">
+                <a href="https://github.com">Github</a>
+              </button>
+        </ul>
+    </footer>
+</body>
+</html>
