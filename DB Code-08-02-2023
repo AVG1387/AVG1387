@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>Email Marketing Data Services</title>    
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" 
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>    
+<body>
+<section id="nav-bar">
+
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="#"><img src="images/data.jpg"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fa fa-bars"></i>
+        </button> 
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"> 
+                    <a class="nav-link" href="#">Home</a> 
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Product</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Services</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact Us</a>
+                </li>
+                
+            </ul>
+        </div>
+    </nav>
+</section>
+
+<!------------------------------banner section----------------------------------------->
+
+<section id="banner">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <p class="promo-title">Ananda Database Co. Pvt Ltd</p>
+                <p>Subscribe Database Marketing YouTube Channel to watch more videos on website development, Wordpress and graphic Designing.</p>
+                <a href="#"><img src="images/play.jpg" class="play-btn"> Watch YouTube</a>
+        </div>
+        <div class="col-md-6 text-center">
+            <img src="images/home1.jpg" class="img-fluid">
+        </div>
+         </div>
+    </div>
+    <img src="images/wave1.jpg" class="bottom-img">
+</section>
+
+ <!-------------------------Servies Section-------------------------------------------->
+
+ <section id="services">
+<div class="container text-center">
+    <h1 class="title">DATABASE SERVICES OFFERED</h1>
+<div class="row text-center">
+    <div class="col-md-4 services">
+  <img src="images/services3.png" class="service-img">
+  <h4>Services</h4>
+  <p>Subscribe Database Marketing YouTube Channel to watch more videos on website development, Wordpress and graphic Designing.</p>
+</div>
+<div class="col-md-4 product">
+    <img src="images/services3.png" class="service-img">
+    <h4>Product</h4>
+    <p>Subscribe Database Marketing YouTube Channel to watch more videos on website development, Wordpress and graphic Designing.</p>
+</div>
+</div>
+<button type="button"class="btn btn-primary">ALL SERVICES</button> 
+</div>
+
+ </section>
+
+ <!------------------------About Us---------------------------------------->
+
+ <section id="about-us">
+    <div class="container">
+        <h1 class="title text-center">WHY CHOOSE US?</h1>
+        <div class="row">
+            <div class="col-md-6 about-us">
+                <p class="about-title">Why we are Different</p>
+                    <ul>
+                        <li>Understand Client's businees goal</li> 
+                        <li>Self Belief</li> 
+                        <li>We deliver ontime</li> 
+                        <li>We create a winning content strategy</li> 
+                        <li>Maintain brand value & reputation</li> 
+                    </ul>
+            </div>
+            <div class="col-md-6">
+                <img src="images/network.jpg" class="img-fluid"> 
+            </div>
+        </div>
+    </div>
+ </section>
+
+ <!--------------------------Social Media section------------------------------------>
+ <section id="social-media">
+ <div class="container text-center">
+    <p>FIND US ON SOCIAL MEDIA</p>
+    <div class="social-icons">
+        <a href="#"><img src="images/facebook.png"></a>
+        <a href="#"><img src="images/instagram.png"></a>
+        <a href="#"><img src="images/twitter.png"></a>
+        <a href="#"><img src="images/whatsapp.png"></a>
+        <a href="#"><img src="images/linkedin.png"></a>
+        <a href="#"><img src="images/snapchat.png"></a>
+    </div>
+ </div>
+</section>
+</body>
+</html> 
