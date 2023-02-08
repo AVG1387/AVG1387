@@ -54,7 +54,7 @@ href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
         </div>
          </div>
     </div>
-    <img src="images/wave1.jpg" class="bottom-img">
+    <img src="images/wave2.png" class="bottom-img">
 </section>
 
  <!-------------------------Servies Section-------------------------------------------->
@@ -66,12 +66,22 @@ href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
     <div class="col-md-4 services">
   <img src="images/services3.png" class="service-img">
   <h4>Services</h4>
-  <p>Subscribe Database Marketing YouTube Channel to watch more videos on website development, Wordpress and graphic Designing.</p>
+  <ul>
+    <li>Lead Generation Services</li>
+    <li>Data Appending Services</li>
+    <li>Email Marketing Campaigns</li>
+  </ul>
 </div>
 <div class="col-md-4 product">
+    <div class="row">
     <img src="images/services3.png" class="service-img">
     <h4>Product</h4>
-    <p>Subscribe Database Marketing YouTube Channel to watch more videos on website development, Wordpress and graphic Designing.</p>
+    <ul>
+        <li>B2B & B2C Mailing Lists</li>
+        <li>Technology Email List</li>
+        <li>Healthcare Email List</li>
+    </ul>
+</div>
 </div>
 </div>
 <button type="button"class="btn btn-primary">ALL SERVICES</button> 
@@ -115,6 +125,24 @@ href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
         <a href="#"><img src="images/snapchat.png"></a>
     </div>
  </div>
+</section>
+
+<!-----------------------footer section-------------------------->
+<section id="footer">
+    <div class="container">
+     <div class="row">
+        <div class="col-md-4 footer-box">
+            <img src="images/data.jpg">
+            <p>Subscribe Database Marketing YouTube Channel to watch more videos on website development, Wordpress and graphic Designing.</p>
+        </div>
+        <div class="col-md-4 footer-box">
+            <p><b>CONTACT US</b></p>
+            <p>Bangalore, Karnataka</p>
+            <p>+91-1234567890</p>
+            <p>test@test.com</p>
+        </div>
+     </div>   
+    </div>
 </section>
 </body>
 </html> 
